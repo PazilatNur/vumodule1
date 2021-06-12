@@ -43,5 +43,4 @@ Other possible visualization options:
 2. Visualize the Outcomes based on Goals chart with a bar chart instead of a line graph.
 
 
-
 Thanks! :shipit:
