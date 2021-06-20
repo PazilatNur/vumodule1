@@ -15,6 +15,7 @@ During the this analysis we primarily used excel as our analysis tool for data a
 ### Part1-Theater Outcomes by Launch Date
 
 This analysis is conducted based on the "Theater" campaigns with all available data between the year of 1970 to 2017.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79488124/122687986-89886500-d1e7-11eb-8e0c-af860d038408.png)
 
 Findings:
 1. Most of the successful campaigns were funded during early summer time, especially May and June would the best time for organizing a fund raising campaign.
