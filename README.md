@@ -28,6 +28,8 @@ Limitation of this dataset and analysis result:
 ### Part2- Campaigns Outcomes based on Goals
 This analysis is conducted with the goal of understanding how a Campaign goal level will impact the success rate a campaign. We first divided the campaign dataset goal amounts into 12 categories. Then we grouped the the number of campaigns in each categories and by the different outcomes.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79488124/122688014-b63c7c80-d1e7-11eb-9c75-d7ecf177d9a8.png)
+
 Findings:
 1. Campaigns with less than $1000 goals have the highest success rate, this might be easier for majority of people to contribute.
 2. As the campaigns goals amount increased the success rate drops and percentage of failed campaigns increases. Especially, starting with the goal of 20K, the percentage of successful campaigns drop significantly decreased and percentages of failed campaigns increased drastically.
